@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="heading">Accessing data of Content Provider</string>
+    <string name="loadButtonText">Load Data</string>
+    <string name="findContactTextView">Find the number of the person with whom I have exchanged the most messages.</string>
+    <string name="findContactButtonText">Find contact</string>
+    <string name="findContactTextViewResult"></string>
+    <string name="findMostCommonSmsLengthTextView">Find the most common SMS length that i type.</string>
+    <string name="findMostCommonSmsLengthButtonText">Find length</string>
+    <string name="findMostCommonSmsLengthTextViewResult"></string>
+    <string name="drawGraphButtonText">Draw graph</string>
+</resources>
+
